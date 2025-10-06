@@ -6,6 +6,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -31,6 +32,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | ------- |
 | [0012-integer-to-roman](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0242-valid-anagram) |
@@ -47,4 +49,8 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2050-count-good-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
