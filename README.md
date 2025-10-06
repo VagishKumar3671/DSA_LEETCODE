@@ -33,6 +33,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0012-integer-to-roman](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0242-valid-anagram) |
@@ -53,4 +54,8 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
