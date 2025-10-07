@@ -6,6 +6,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0283-move-zeroes) |
@@ -13,6 +14,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
