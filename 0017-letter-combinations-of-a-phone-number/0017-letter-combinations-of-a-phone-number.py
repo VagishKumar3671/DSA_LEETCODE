@@ -1,10 +1,6 @@
 class Solution(object):
     def combine(self, temp1, temp2):
-        temp = []
-        for i in temp1:
-            for j in temp2:
-                temp.append(i + j)
-        return temp
+        return [i + j for i in temp1 for j in temp2]
     def letterCombinations(self, digits):
         if len(digits) == 0 or (len(digits) == 1 and digits[0]=='1') or (len(digits) == 1 and digits[0]=='0'):
             return []
@@ -16,8 +12,7 @@ class Solution(object):
             '6': ['m', 'n', 'o'],
             '7': ['p', 'q', 'r', 's'],
             '8': ['t', 'u', 'v'],
-            '9': ['w', 'x', 'y', 'z']
-        }
+            '9': ['w', 'x', 'y', 'z']}
         if len(digits) == 1:
             return dic[digits[0]]
         temp1 = dic[digits[0]]
