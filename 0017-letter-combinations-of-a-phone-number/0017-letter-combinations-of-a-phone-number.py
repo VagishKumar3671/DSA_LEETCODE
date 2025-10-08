@@ -6,7 +6,7 @@ class Solution(object):
                 temp.append(i + j)
         return temp
     def letterCombinations(self, digits):
-        if len(digits) == 0 or (len(digits) == 0 and digits[0]=='1') or (len(digits) == 0 and digits[0]=='0'):
+        if len(digits) == 0 or (len(digits) == 1 and digits[0]=='1') or (len(digits) == 1 and digits[0]=='0'):
             return []
         dic = {
             '2': ['a', 'b', 'c'],
