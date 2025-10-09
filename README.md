@@ -28,12 +28,14 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
@@ -72,4 +74,8 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
