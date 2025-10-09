@@ -1,25 +1,28 @@
 class Solution(object):
+    def repect_checker(self, s):
+        for ch in s:
+            if s.count(ch) > 1:
+                return True
+        return False
+
     def longestPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
         if len(s) == 0:
             return ''
+        if len(s) == 1:
+            return s
+        if len(s) == 2:
+            if s[0] == s[1]:
+                return s
+            else:
+                return s[0]
         
-        # Variables to store the best palindrome found
-        longest = s[0]  # at least one character will always be a palindrome
-        
-        # Check all possible centers (i..j)
+        if not self.repect_checker(s):
+            return ""  
+        longest = ''
         for i in range(len(s)):
-            j = len(s) - 1
-            while j >= i:
-                if s[i] == s[j]:
-                    # check substring s[i:j+1]
-                    sub = s[i:j+1]
-                    if sub == sub[::-1]:  # palindrome check
-                        if len(sub) > len(longest):
-                            longest = sub
-                j -= 1
-                
+            for j in range(i, len(s)):
+                sub = s[i:j+1]
+                if sub == sub[::-1] and len(sub) > len(longest):
+                    longest = sub
+
         return longest
