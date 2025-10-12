@@ -9,6 +9,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0001-two-sum](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -31,6 +32,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0283-move-zeroes) |
