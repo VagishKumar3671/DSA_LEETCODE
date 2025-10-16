@@ -60,6 +60,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0009-palindrome-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2050-count-good-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2050-count-good-numbers) |
 ## Recursion
@@ -90,4 +91,5 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
