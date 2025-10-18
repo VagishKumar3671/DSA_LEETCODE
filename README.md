@@ -11,6 +11,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0283-move-zeroes) |
@@ -60,6 +61,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0009-palindrome-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2050-count-good-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2050-count-good-numbers) |
