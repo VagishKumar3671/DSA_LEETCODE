@@ -8,6 +8,5 @@ class Solution(object):
             elif total == 1:new,car = '1' + new,'0'
             elif total == 2:new,car= '0' + new,'1'
             else:new,car = '1' + new,'1'
-        if car == '1':
-            new = '1' + new
+        if car == '1':new = '1' + new
         return new
