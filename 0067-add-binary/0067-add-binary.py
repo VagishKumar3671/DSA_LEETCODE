@@ -6,9 +6,7 @@ class Solution(object):
         b = ('0' * ((length_max + 1) - len(b))) + b
         car = '0'
         for i in range(1, length_max + 1):
-            A = a[-i]
-            B = b[-i]
-            total = (A == '1') + (B == '1') + (car == '1')
+            total = (a[-i] == '1') + (b[-i] == '1') + (car == '1')
             if total == 0:
                 new = '0' + new
                 car = '0'
