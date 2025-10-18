@@ -1,10 +1,9 @@
 class Solution(object):
     def addBinary(self, a, b):
         length_max = max(len(a), len(b))
-        new = ''
+        new,car = '','0'
         a = ('0' * ((length_max + 1) - len(a))) + a
         b = ('0' * ((length_max + 1) - len(b))) + b
-        car = '0'
         for i in range(1, length_max + 1):
             total = (a[-i] == '1') + (b[-i] == '1') + (car == '1')
             if total == 0:
