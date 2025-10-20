@@ -6,6 +6,10 @@ class ListNode:
 
 class Solution:
     def mergeTwoLists(self, list1, list2):
+        if not list1:
+            return list2
+        if not list2:
+            return list1
         dummy = ListNode(-1)
         current = dummy
 
