@@ -9,7 +9,7 @@ class Solution:
         if not list2:
             return list1
         dummy = ListNode(-1)
-        current = dummy
+        current=dummy
         while list1 and list2:
             if list1.val <= list2.val:
                 current.next = list1
