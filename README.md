@@ -113,4 +113,5 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
