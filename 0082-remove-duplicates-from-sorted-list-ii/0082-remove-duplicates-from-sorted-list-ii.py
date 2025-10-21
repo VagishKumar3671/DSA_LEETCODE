@@ -7,7 +7,7 @@ class Solution(object):
         dump = ListNode(-1)
         dump.next = head
         prev = dump
-        node = dump.next
+        node = head
         while node:
             if node.next and node.val == node.next.val:
                 val = node.val
