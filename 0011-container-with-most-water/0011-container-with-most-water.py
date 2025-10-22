@@ -5,7 +5,8 @@ class Solution(object):
         l,r=0,len(height)-1
         max_ans=0
         while l<r:
-            max_ans=max((min(height[l],height[r])*(r-l)),max_ans)
+            temp=(min(height[l],height[r])*(r-l))
+            max_ans=max(temp,max_ans)
             if height[l]>=height[r]:
                 r-=1
             else:
