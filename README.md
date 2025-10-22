@@ -7,6 +7,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0027-remove-element) |
@@ -35,6 +36,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -116,4 +118,8 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0021-merge-two-sorted-lists](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
