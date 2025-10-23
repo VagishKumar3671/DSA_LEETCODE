@@ -100,6 +100,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0338-counting-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
