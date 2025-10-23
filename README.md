@@ -72,6 +72,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0069-sqrtx](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
+| [0371-sum-of-two-integers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2050-count-good-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2050-count-good-numbers) |
 ## Recursion
@@ -108,6 +109,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0067-add-binary) |
+| [0371-sum-of-two-integers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
 | ------- |
