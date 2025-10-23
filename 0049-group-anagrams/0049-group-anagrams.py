@@ -4,14 +4,16 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        lis = []           
-        keys = []           
-        for word in strs:
-            sorted_word = ''.join(sorted(word))  
-            if sorted_word in keys:
-                index = keys.index(sorted_word)
-                lis[index].append(word)
+        res={}
+        for i in strs:
+            count=[0]*26
+            for j in i:
+                count[ord(j)-ord('a')]+=1
+            count=tuple(count)
+            if count in res:
+                res[count].append(i)
+                continue
             else:
-                lis.append([word])
-                keys.append(sorted_word)
-        return lis
+                res[count]=[i]
+        return list(res.values())
+            
