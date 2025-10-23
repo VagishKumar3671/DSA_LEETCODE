@@ -110,6 +110,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 ## Simulation
@@ -126,4 +127,8 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
