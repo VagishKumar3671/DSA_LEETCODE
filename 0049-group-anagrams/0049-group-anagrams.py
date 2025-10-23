@@ -1,4 +1,9 @@
 class Solution(object):
+    def map(self,x):
+        count=[0]*26
+        for j in x:
+            count[ord(j)-ord('a')]+=1
+        return tuple(count)
     def groupAnagrams(self, strs):
         """
         :type strs: List[str]
@@ -6,10 +11,7 @@ class Solution(object):
         """
         res={}
         for i in strs:
-            count=[0]*26
-            for j in i:
-                count[ord(j)-ord('a')]+=1
-            count=tuple(count)
+            count=self.map(i)
             if count in res:
                 res[count].append(i)
                 continue
