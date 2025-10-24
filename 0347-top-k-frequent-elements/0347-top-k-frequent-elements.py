@@ -2,6 +2,8 @@ class Solution(object):
     def topKFrequent(self, nums, k):
         if len(nums)==1:
             return nums
+        if len(set(nums))==k:
+            return list(set(nums))
         dic={}
         for i in set(nums):
             dic[i]=nums.count(i)
