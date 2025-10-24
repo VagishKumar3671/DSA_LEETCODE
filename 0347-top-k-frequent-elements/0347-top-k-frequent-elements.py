@@ -9,6 +9,7 @@ class Solution(object):
             if i in dic:
                 dic[i] += 1
                 continue
-            dic[i] = 1
+            else:
+                dic[i] = 1
         sorted_items = sorted(dic.items(), key=lambda x: x[1], reverse=True)
         return [item[0] for item in sorted_items[:k]]
