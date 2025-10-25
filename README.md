@@ -15,6 +15,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0049-group-anagrams](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0283-move-zeroes) |
@@ -28,6 +29,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0013-roman-to-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -162,4 +164,8 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
