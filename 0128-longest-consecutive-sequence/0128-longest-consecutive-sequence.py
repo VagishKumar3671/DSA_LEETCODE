@@ -22,7 +22,7 @@ class Solution(object):
             return 1
         if len(nums) == 2 and nums[0] == nums[1]:
             return 1
-        nums = set(nums)
+        nums =set(nums)
         temp = 0
         for i in nums:
             if (i - 1) not in nums:
