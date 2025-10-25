@@ -4,7 +4,6 @@ class Solution(object):
             if s.count(ch) > 1:
                 return True
         return False
-
     def longestPalindrome(self, s):
         if len(s) == 0:
             return ''
@@ -15,7 +14,6 @@ class Solution(object):
                 return s
             else:
                 return s[0]
-        
         if not self.repect_checker(s):
             return ""  
         longest = ''
@@ -24,5 +22,4 @@ class Solution(object):
                 sub = s[i:j+1]
                 if sub == sub[::-1] and len(sub) > len(longest):
                     longest = sub
-
         return longest
