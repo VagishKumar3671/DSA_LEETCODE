@@ -74,6 +74,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
@@ -88,6 +89,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [2050-count-good-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2050-count-good-numbers) |
 ## Trie
@@ -131,6 +133,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
