@@ -16,6 +16,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0066-plus-one](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -157,4 +158,8 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
