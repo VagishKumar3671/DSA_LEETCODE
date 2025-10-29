@@ -13,6 +13,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -85,6 +86,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0009-palindrome-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0069-sqrtx) |
@@ -186,4 +188,8 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
