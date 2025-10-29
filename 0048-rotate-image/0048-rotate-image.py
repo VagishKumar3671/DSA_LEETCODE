@@ -1,4 +1,4 @@
-class Solution(object):
+'''class Solution(object):
     def rotate(self, matrix):
         if len(matrix)==1:
             return matrix
@@ -13,4 +13,12 @@ class Solution(object):
                 temp=matrix[i][n-j-1]
                 matrix[i][n-j-1]=matrix[i][j]
                 matrix[i][j]=temp
-        return matrix
+        return matrix'''
+class Solution(object):
+    def rotate(self, matrix):
+        for i in range(0,len(matrix)):
+            for j in range(0,i):
+                matrix[i][j],matrix[j][i] = matrix[j][i],matrix[i][j]
+        for i in matrix:
+            i.reverse()
+        return
