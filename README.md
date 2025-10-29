@@ -93,6 +93,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0371-sum-of-two-integers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2050-count-good-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2050-count-good-numbers) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +135,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0191-number-of-1-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
