@@ -135,6 +135,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0191-number-of-1-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
