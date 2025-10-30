@@ -15,6 +15,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0035-search-insert-position](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -143,6 +144,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0067-add-binary) |
 ## Linked List
 |  |
@@ -193,4 +195,5 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
