@@ -18,6 +18,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0054-spiral-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
@@ -123,6 +124,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0338-counting-bits) |
 ## Binary Search
