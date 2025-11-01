@@ -83,6 +83,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0171-excel-sheet-column-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +155,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0054-spiral-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0258-add-digits) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Linked List
 |  |
 | ------- |
