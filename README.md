@@ -95,6 +95,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0168-excel-sheet-column-title](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0371-sum-of-two-integers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [0441-arranging-coins](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0441-arranging-coins) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2050-count-good-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2050-count-good-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -132,6 +133,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | ------- |
 | [0035-search-insert-position](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
