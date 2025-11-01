@@ -26,6 +26,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0238-product-of-array-except-self](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0217-contains-duplicate](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
