@@ -96,6 +96,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0069-sqrtx](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0441-arranging-coins) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -152,6 +153,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | ------- |
 | [0054-spiral-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0258-add-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -202,4 +204,8 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | ------- |
 | [0048-rotate-image](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
