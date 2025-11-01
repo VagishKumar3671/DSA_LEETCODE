@@ -1,5 +1,5 @@
 class Solution(object):
     def thirdMax(self, nums):
-        nums = sorted(set(nums), reverse=True)  
-        if len(nums) < 3:return nums[0]
-        return nums[2]
+        if len(set(nums)) < 3:
+            return sorted(set(nums), reverse=True)[0]
+        return sorted(set(nums), reverse=True)[2]
