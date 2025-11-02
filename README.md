@@ -30,6 +30,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0349-intersection-of-two-arrays](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
