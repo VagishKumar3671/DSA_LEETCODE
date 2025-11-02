@@ -5,12 +5,9 @@ class Solution(object):
             if i in dic:
                 dic[i] += 1
             else:
-                dic[i] = 1     # only set to 1 if it's not already there
-        
+                dic[i] = 1 
         sorted_items = sorted(dic.items(), key=lambda x: x[1], reverse=True)
-        
         result = ''
         for char, freq in sorted_items:
             result += char * freq
-        
         return result
