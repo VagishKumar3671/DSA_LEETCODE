@@ -8,5 +8,3 @@ class Solution(object):
                 dic[i] = 1
         sort_item = sorted(dic.items(),key=lambda x: (-x[1], x[0]))
         return [item[0] for item in sort_item[:k]]
-        
-        
