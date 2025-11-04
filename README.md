@@ -35,6 +35,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0948-sort-an-array) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -166,6 +167,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0349-intersection-of-two-arrays](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -247,6 +249,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | ------- |
 | [0048-rotate-image](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Number Theory
 |  |
 | ------- |
