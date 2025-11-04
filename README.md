@@ -33,6 +33,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0414-third-maximum-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0792-binary-search](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -163,6 +164,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0268-missing-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0441-arranging-coins) |
+| [0792-binary-search](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
