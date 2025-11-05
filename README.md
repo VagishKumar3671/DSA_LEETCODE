@@ -108,6 +108,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0451-sort-characters-by-frequency](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0812-rotate-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Math
@@ -154,6 +155,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0812-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
