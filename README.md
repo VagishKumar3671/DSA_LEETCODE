@@ -35,6 +35,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0948-sort-an-array) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -55,6 +56,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0349-intersection-of-two-arrays](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +130,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0268-missing-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0441-arranging-coins) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2050-count-good-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2050-count-good-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -233,6 +236,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0347-top-k-frequent-elements](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
 |  |
@@ -260,6 +264,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0258-add-digits) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Merge Sort
 |  |
 | ------- |
