@@ -133,6 +133,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2050-count-good-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2050-count-good-numbers) |
+| [2083-three-divisors](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2083-three-divisors) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
@@ -265,6 +266,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | ------- |
 | [0258-add-digits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [2083-three-divisors](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2083-three-divisors) |
 ## Merge Sort
 |  |
 | ------- |
@@ -278,4 +280,8 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0948-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
