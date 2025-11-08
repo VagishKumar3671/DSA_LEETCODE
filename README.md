@@ -32,6 +32,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0349-intersection-of-two-arrays](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0948-sort-an-array) |
@@ -71,6 +72,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0349-intersection-of-two-arrays](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0948-sort-an-array) |
 ## Two Pointers
@@ -209,6 +211,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0561-array-partition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -279,6 +282,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0948-sort-an-array) |
 ## Enumeration
 |  |
