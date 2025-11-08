@@ -17,6 +17,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0049-group-anagrams](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0119-pascals-triangle-ii) |
@@ -63,6 +64,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | ------- |
 | [0015-3sum](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
@@ -84,6 +86,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
