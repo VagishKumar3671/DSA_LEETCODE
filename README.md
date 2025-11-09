@@ -94,6 +94,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0344-reverse-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0242-valid-anagram](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
@@ -175,6 +177,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0119-pascals-triangle-ii](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
