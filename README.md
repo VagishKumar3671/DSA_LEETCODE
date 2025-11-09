@@ -92,6 +92,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0125-valid-palindrome](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -112,6 +113,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0171-excel-sheet-column-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
