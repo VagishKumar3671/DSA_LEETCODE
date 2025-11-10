@@ -38,6 +38,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0792-binary-search](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -59,6 +60,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0451-sort-characters-by-frequency](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0561-array-partition](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0948-sort-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +98,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0345-reverse-vowels-of-a-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0392-is-subsequence) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -187,6 +191,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0349-intersection-of-two-arrays](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
