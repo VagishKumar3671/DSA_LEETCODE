@@ -57,6 +57,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0217-contains-duplicate](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -122,6 +123,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0168-excel-sheet-column-title](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0392-is-subsequence) |
