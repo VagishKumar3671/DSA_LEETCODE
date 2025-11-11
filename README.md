@@ -41,6 +41,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [1468-check-if-n-and-its-double-exist](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,6 +216,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0067-add-binary](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0258-add-digits) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Linked List
 |  |
 | ------- |
