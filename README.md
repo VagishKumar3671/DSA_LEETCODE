@@ -35,6 +35,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0485-max-consecutive-ones](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -80,6 +81,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0451-sort-characters-by-frequency](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
