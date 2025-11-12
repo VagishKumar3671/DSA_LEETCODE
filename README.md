@@ -146,6 +146,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0069-sqrtx](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
@@ -160,6 +161,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | ------- |
 | [0002-add-two-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/2050-count-good-numbers) |
 ## Trie
 |  |
@@ -207,6 +209,7 @@ This repository contains my solutions to various Data Structures &amp; Algorithm
 | [0067-add-binary](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/VagishKumar3671/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
